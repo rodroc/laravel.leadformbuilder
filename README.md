@@ -16,18 +16,18 @@ After creating a form users can submit entries by filling out these forms. These
 - [Download & install XAMPP with PHP 7.2.5+ ](https://www.apachefriends.org/).
 - [Download & install node ](https://nodejs.org).
 - [Download & install git ](https://git-scm.com/downloads).
-- [Set path of php binary file to system path and perhaps restart the PC].
-- [Run XAMPP, run mysql, add mysql user and set password].
-- [Open a git terminal and run command $ git clone <URL>].
-- [Change path to this project directory and run command $ php composer.phar install].
-- [Copy .env.example to a new file '.env'].
-- [Edit the '.env' file and update the sections DB_* and MAIL_* lines].
-- [Run $ npm install].
-- [Run $ npm run dev].
-- [Run $ php artisan migration:fresh].
-- [If you have problems running the migration command, restore the schema.sql file].
-- [Run $ php artisan serve]
-- [Open browser on http://localhost:8000]
+- Set path of php binary file to system path and perhaps restart the PC.
+- Run XAMPP, run mysql, add mysql user and set password.
+- Open a git terminal and run command $ git clone <URL>.
+- Change path to this project directory and run command $ php composer.phar install.
+- Copy .env.example to a new file '.env'.
+- Edit the '.env' file and update the sections DB_* and MAIL_* lines.
+- Run $ npm install.
+- Run $ npm run dev.
+- Run $ php artisan migration:fresh.
+- If you have problems running the migration command, restore the schema.sql file].
+- Run $ php artisan serve
+- Open browser on http://localhost:8000
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
