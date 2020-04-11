@@ -1,17 +1,14 @@
-## Project/Sample for Lead Form Builder
+## Project/Sample for Lead Form Builder Using Laravel 7
 
 A form builder system where users can create custom forms and have to display the data in a single listing table then. 
 
 For ex -
-User 1 creates a form with first name, last name, email and address.
-[Video](
-https://github.com/rodroc/laravel.leadformbuilder/blob/master/videos/user1-registration.mp4)
-User 2 creates a form with name, phone and address.
-[Video](
-https://github.com/rodroc/laravel.leadformbuilder/blob/master/videos/user2-meetup.mp4)
-User 3 creates a form with name, phone and email.
-[Video](
-https://github.com/rodroc/laravel.leadformbuilder/blob/master/videos/user3-signup.mp4)
+- User 1 creates a form with first name, last name, email and address.
+- [Video 1](https://github.com/rodroc/laravel.leadformbuilder/blob/master/videos/user1-registration.mp4).
+- User 2 creates a form with name, phone and address.
+- [Video 2](https://github.com/rodroc/laravel.leadformbuilder/blob/master/videos/user2-meetup.mp4).
+- User 3 creates a form with name, phone and email.
+- [Video 3](https://github.com/rodroc/laravel.leadformbuilder/blob/master/videos/user3-signup.mp4).
 
 Every form created by users can be named as form templates.
 
