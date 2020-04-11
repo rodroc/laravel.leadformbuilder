@@ -1,4 +1,4 @@
-## Project/Sample for Lead Form Builder Using Laravel 7
+## Project/Sample for Lead Form Builder Using Laravel 7 & Vue.js 2
 
 A form builder system where users can create custom forms and have to display the data in a single listing table then. 
 
